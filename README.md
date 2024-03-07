@@ -3,7 +3,7 @@
 # Drill Y-42 (Student Project)
 Homepage: https://s4g.itch.io/drilly-42
 
-**3D First-Person Endless-Runner with Resource-Management made in Unity**
+**3D First-Person Endless-Runner with Resource-Management made in Unity 2022.3.1f1**
 
 In this steampunk themed endless runner, you explore a long forgotten mine and pierce your way deeper through the tunnels with a gigantic drill machine. But beware: the tunnel is collapsing behind you!
 Gather resources, craft upgrades and keep your drill running before you get buried. Oh, say howdy to old George Crocker if you meet him!
