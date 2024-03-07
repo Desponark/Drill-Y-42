@@ -8,19 +8,19 @@ Homepage: https://s4g.itch.io/drilly-42
 In this steampunk themed endless runner, you explore a long forgotten mine and pierce your way deeper through the tunnels with a gigantic drill machine. But beware: the tunnel is collapsing behind you!
 Gather resources, craft upgrades and keep your drill running before you get buried. Oh, say howdy to old George Crocker if you meet him!
 
-### Gameplay
+## Gameplay
 - Operate a huge drill machine
 - Discover & craft new tools
 - Explore forgotten tunnels and uncover ancient secrets
 - Beat your high score
 
-### Roles
+## Roles
 - Main Gameplay Programmer
 
-### Engine / Language
+## Engine / Language
 - Unity, C#
 
-### Responsibilities
+## Responsibilities
 - [Enemies](Assets/Scripts/Runtime/Enemies)
 - Almost everything [Drill](Assets/Scripts/Runtime/Drill)
 - Upgrade System (See for example: [DrillData.cs](https://github.com/Desponark/Drill-Y-42/blob/master/Assets/Scripts/Runtime/Drill/Main/DrillData.cs), [Upgrade.cs](https://github.com/Desponark/Drill-Y-42/blob/master/Assets/Scripts/Runtime/Upgrades/Upgrade.cs), [DrillUpgrade.cs](https://github.com/Desponark/Drill-Y-42/blob/master/Assets/Scripts/Runtime/Upgrades/Drill/Sources/DrillUpgrade.cs), [FuelMaxUpgrade.cs](https://github.com/Desponark/Drill-Y-42/blob/master/Assets/Scripts/Runtime/Upgrades/Drill/Sources/FuelMaxUpgrade.cs))
